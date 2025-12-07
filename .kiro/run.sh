@@ -1,0 +1,1 @@
+python organize_desktop.py --source ./demo_desktop --dry-run

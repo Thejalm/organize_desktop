@@ -1,0 +1,8 @@
+{
+  "name": "Organize Desktop",
+  "author": "Thejal M",
+  "description": "Organize Desktop files into categorized folders automatically.",
+  "entrypoint": "python organize_desktop.py --source ~/Desktop",
+  "tags": ["automation", "filesystem", "python", "lazy-automation"],
+  "created_at": "2025-12-07"
+}
